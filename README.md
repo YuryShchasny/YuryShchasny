@@ -9,7 +9,14 @@
 - **Marital Status:** Single
 
 ## Education
-- **Belarusian State University of Informatics and Radioelectronics**
+**Android Development Courses**
+
+ **Udemy:**
+- Android development from scratch
+- Kotlin - quick start
+- Android professional level (Kotlin)
+
+ **Belarusian State University of Informatics and Radioelectronics**
   - **Faculty:** Faculty of Computer Systems and Networks
   - **Specialization:** System Engineer
   - **Graduation Date:** 2025
@@ -19,18 +26,20 @@
 - **Personal Qualities:** Lack of harmful habits, calmness, calculative, independence
 ## About Me
 
-In the world of programming, my journey began with the exploration of C# and initial forays into Desktop development. Despite the initial interest, this experience didn't immediately captivate my soul. In the pursuit of finding a direction that resonated with me, I immersed myself in the captivating realm of Java, discovering the fascinating field of Android development.
+In programming, I started with C# and Desktop development
+but found my true passion in the world of Java and
+Android development.
 
-My initial steps in Android development were fortified by courses from the talented instructor, Andrey Sumin. Starting with Java, I gradually transitioned to Kotlin, finding in it my ideal environment for creativity. Throughout the learning process, I mastered the fundamentals of Android development, expanding my skill set.
+Guided by Andrey Sumin's courses, I switched from Java to Kotlin, based on the relevance of this language. Mastering Android development fundamentals, I applied knowledge in real-world scenarios, handling client requests.
 
-In the midst of delving into the basics of Android development, I actively pursued both learning and work simultaneously, applying the acquired knowledge in practical scenarios. During this period, I handled requests for developing Android applications for clients, significantly broadening my practical experience and deepening my understanding of development processes.
-
-My commitment to improvement and the pursuit of optimal solutions consistently accompany me in the world of development. I enthusiastically tackle all new challenges, driven by a focus on continuous professional growth and diversity in my creative journey.
+Striving for improvement, I continue to move in this direction,
+striving to get both theoretical knowledge and practical
+experience.
 
 ## Contacts
 - **Email:** yuryshchasnydev@gmail.com
 
-## Computer Skills
+## Hard Skills
 - Kotlin
 - Java
 - Android SDK
@@ -38,10 +47,21 @@ My commitment to improvement and the pursuit of optimal solutions consistently a
 - Room DB
 - Retrofit2
 - MVVM
+- Clean Architecture
+- LiveData
+ ## Soft Skills
+- Kotlin
+- Java
+- Android SDK
+- Coroutines
+- Room DB
+- Retrofit2
+- MVVM
+- Clean Architecture
 - LiveData
 
 ## Language Proficiency
-- English (A2) // Reading Documentation
+- English (B1) // Reading Documentation
 
 ## How to Reach Me
 Feel free to contact me via email for any inquiries or opportunities. I am open to collaborations and discussions related to Android development or any other related opportunities

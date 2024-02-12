@@ -17,7 +17,7 @@
 ## Additional Information
 - **Hobbies:** Self-learning, computer games, watching movies/TV series
 - **Personal Qualities:** Lack of harmful habits, calmness, calculative, independence
-- # About Me
+## About Me
 
 In the world of programming, my journey began with the exploration of C# and initial forays into Desktop development. Despite the initial interest, this experience didn't immediately captivate my soul. In the pursuit of finding a direction that resonated with me, I immersed myself in the captivating realm of Java, discovering the fascinating field of Android development.
 

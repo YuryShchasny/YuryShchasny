@@ -50,16 +50,10 @@ experience.
 - Clean Architecture
 - LiveData
  ## Soft Skills
-- Kotlin
-- Java
-- Android SDK
-- Coroutines
-- Room DB
-- Retrofit2
-- MVVM
-- Clean Architecture
-- LiveData
-
+-Meet deadlines
+-Collaboration and Teamwork
+-Adaptability and Flexibility
+-Continuous Learning
 ## Language Proficiency
 - English (A2) // Reading Documentation
 

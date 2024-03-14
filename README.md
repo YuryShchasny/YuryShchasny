@@ -50,10 +50,10 @@ experience.
 - Clean Architecture
 - LiveData
  ## Soft Skills
--Meet deadlines
--Collaboration and Teamwork
--Adaptability and Flexibility
--Continuous Learning
+- Meet deadlines
+- Collaboration and Teamwork
+- Adaptability and Flexibility
+- Continuous Learning
 ## Language Proficiency
 - English (A2) // Reading Documentation
 

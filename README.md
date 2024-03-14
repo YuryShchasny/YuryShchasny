@@ -44,6 +44,7 @@ experience.
 - Java
 - Android SDK
 - Coroutines
+- Dagger2
 - Room DB
 - Retrofit2
 - MVVM

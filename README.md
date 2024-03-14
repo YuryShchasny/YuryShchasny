@@ -61,7 +61,7 @@ experience.
 - LiveData
 
 ## Language Proficiency
-- English (B1) // Reading Documentation
+- English (A2) // Reading Documentation
 
 ## How to Reach Me
 Feel free to contact me via email for any inquiries or opportunities. I am open to collaborations and discussions related to Android development or any other related opportunities

@@ -6,8 +6,7 @@
 - **Education:** Incomplete Higher Education
 - **Date of Birth:** October 20, 2003 (20 years old)
 - **Gender:** Male
--
- **Marital Status:** Single
+- **Marital Status:** Single
 
 ## Education
 **Android Development Courses**

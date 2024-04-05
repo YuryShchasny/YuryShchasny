@@ -6,7 +6,8 @@
 - **Education:** Incomplete Higher Education
 - **Date of Birth:** October 20, 2003 (20 years old)
 - **Gender:** Male
-- **Marital Status:** Single
+-
+ **Marital Status:** Single
 
 ## Education
 **Android Development Courses**
@@ -43,9 +44,9 @@ experience.
 - Kotlin
 - Java
 - Android SDK
-- Coroutines
+- Coroutines Flow
 - Dagger2
-- Room DB
+- Room
 - Retrofit2
 - MVVM
 - Clean Architecture

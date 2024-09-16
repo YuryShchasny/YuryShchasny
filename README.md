@@ -26,30 +26,32 @@
 - **Personal Qualities:** Lack of harmful habits, calmness, calculative, independence
 ## About Me
 
-In programming, I started with C# and Desktop development
-but found my true passion in the world of Java and
-Android development.
-
-Guided by Andrey Sumin's courses, I switched from Java to Kotlin, based on the relevance of this language. Mastering Android development fundamentals, I applied knowledge in real-world scenarios, handling client requests.
-
-Striving for improvement, I continue to move in this direction,
-striving to get both theoretical knowledge and practical
-experience.
+My journey in Android development began with courses by Andrey
+Sumin, available on popular platforms like Stepik and Udemy. These
+courses provided an excellent foundation for understanding the
+basic principles of Android development. After completing the
+courses and creating a pet project, I started working remotely at
+TopMyApp, where I developed simple projects, reinforcing my
+knowledge through practical experience. When the company
+stopped developing Android apps and focused solely on iOS, I
+began searching for new opportunities. Soon, I joined Entexy, a small
+company creating various custom projects, where I continue to
+work to this day.
 
 ## Contacts
 - **Email:** yuryshchasnydev@gmail.com
 
 ## Hard Skills
-- Kotlin
-- Java
-- Android SDK
+- Kotlin, Java
+- Jetpack Compose
+- Decompose
+- Custom Views
 - Coroutines Flow
-- Dagger2
-- Room
+- DI (Dagger2, Hilt, Koin)
 - Retrofit2
-- MVVM
+- Room
+- MVVM, MVI
 - Clean Architecture
-- LiveData
  ## Soft Skills
 - Meet deadlines
 - Collaboration and Teamwork

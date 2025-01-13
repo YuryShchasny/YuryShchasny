@@ -6,7 +6,6 @@
 - **Education:** Incomplete Higher Education
 - **Date of Birth:** October 20, 2003 (20 years old)
 - **Gender:** Male
-- **Marital Status:** Single
 
 ## Education
 **Android Development Courses**
@@ -23,7 +22,7 @@
 
 ## Additional Information
 - **Hobbies:** Self-learning, computer games, watching movies/TV series
-- **Personal Qualities:** Lack of harmful habits, calmness, calculative, independence
+- **Personal Qualities:** Calmness, calculative, independence
 ## About Me
 
 My journey in Android development began with courses by Andrey

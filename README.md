@@ -1,10 +1,10 @@
-# Developer - Yury Shchasny
+# Android Developer - Yury Shchasny
 
 ## Personal Information
 - **Citizenship:** Republic of Belarus
 - **City of Residence:** Minsk
 - **Education:** Incomplete Higher Education
-- **Date of Birth:** October 20, 2003 (20 years old)
+- **Date of Birth:** October 20, 2003 (21 years old)
 - **Gender:** Male
 
 ## Education
@@ -37,9 +37,6 @@ began searching for new opportunities. Soon, I joined Entexy, a small
 company creating various custom projects, where I continue to
 work to this day.
 
-## Contacts
-- **Email:** yuryshchasnydev@gmail.com
-
 ## Hard Skills
 - Kotlin, Java
 - Jetpack Compose
@@ -47,10 +44,12 @@ work to this day.
 - Custom Views
 - Coroutines Flow
 - DI (Dagger2, Hilt, Koin)
-- Retrofit2
-- Room
+- Retrofit2, Ktor client
+- Room, Datastore
 - MVVM, MVI
 - Clean Architecture
+- Multi-Modularizing
+- Kotlin Multiplatform
  ## Soft Skills
 - Meet deadlines
 - Collaboration and Teamwork
@@ -58,6 +57,9 @@ work to this day.
 - Continuous Learning
 ## Language Proficiency
 - English (A2) // Reading Documentation
+
+## Contacts
+- **Email:** yuryshchasnydev@gmail.com
 
 ## How to Reach Me
 Feel free to contact me via email for any inquiries or opportunities. I am open to collaborations and discussions related to Android development or any other related opportunities
